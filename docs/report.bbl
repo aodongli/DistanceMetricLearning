@@ -1,0 +1,67 @@
+\begin{thebibliography}{10}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Belkin and Niyogi(2002)]{belkin2002laplacian}
+Mikhail Belkin and Partha Niyogi.
+\newblock Laplacian eigenmaps and spectral techniques for embedding and
+  clustering.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  585--591, 2002.
+
+\bibitem[Boyd et~al.(2003)Boyd, Xiao, and Mutapcic]{boyd2003subgradient}
+Stephen Boyd, Lin Xiao, and Almir Mutapcic.
+\newblock Subgradient methods.
+\newblock \emph{lecture notes of EE392o, Stanford University, Autumn Quarter},
+  2004:\penalty0 2004--2005, 2003.
+
+\bibitem[Grant et~al.(2008)Grant, Boyd, and Ye]{grant2008cvx}
+Michael Grant, Stephen Boyd, and Yinyu Ye.
+\newblock Cvx: Matlab software for disciplined convex programming, 2008.
+
+\bibitem[Liu and Nocedal(1989)]{liu1989limited}
+Dong~C Liu and Jorge Nocedal.
+\newblock On the limited memory bfgs method for large scale optimization.
+\newblock \emph{Mathematical programming}, 45\penalty0 (1-3):\penalty0
+  503--528, 1989.
+
+\bibitem[Shalev-Shwartz et~al.(2004)Shalev-Shwartz, Singer, and
+  Ng]{shalev2004online}
+Shai Shalev-Shwartz, Yoram Singer, and Andrew~Y Ng.
+\newblock Online and batch learning of pseudo-metrics.
+\newblock In \emph{Proceedings of the twenty-first international conference on
+  Machine learning}, page~94. ACM, 2004.
+
+\bibitem[Vandenberghe and Boyd(1996)]{vandenberghe1996semidefinite}
+Lieven Vandenberghe and Stephen Boyd.
+\newblock Semidefinite programming.
+\newblock \emph{SIAM review}, 38\penalty0 (1):\penalty0 49--95, 1996.
+
+\bibitem[Weinberger and Saul(2009)]{weinberger2009distance}
+Kilian~Q Weinberger and Lawrence~K Saul.
+\newblock Distance metric learning for large margin nearest neighbor
+  classification.
+\newblock \emph{Journal of Machine Learning Research}, 10\penalty0
+  (Feb):\penalty0 207--244, 2009.
+
+\bibitem[Xing et~al.(2003)Xing, Jordan, Russell, and Ng]{xing2003distance}
+Eric~P Xing, Michael~I Jordan, Stuart~J Russell, and Andrew~Y Ng.
+\newblock Distance metric learning with application to clustering with
+  side-information.
+\newblock In \emph{Advances in neural information processing systems}, pages
+  521--528, 2003.
+
+\bibitem[Yang and Jin(2006)]{yang2006distance}
+Liu Yang and Rong Jin.
+\newblock Distance metric learning: A comprehensive survey.
+\newblock \emph{Michigan State Universiy}, 2\penalty0 (2), 2006.
+
+\bibitem[Yang et~al.(2006)Yang, Jin, Sukthankar, and Liu]{yang2006efficient}
+Liu Yang, Rong Jin, Rahul Sukthankar, and Yi~Liu.
+\newblock An efficient algorithm for local distance metric learning.
+\newblock In \emph{AAAI}, volume~2, pages 543--548, 2006.
+
+\end{thebibliography}
